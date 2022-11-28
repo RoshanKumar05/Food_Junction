@@ -23,5 +23,3 @@ A websites which helps users  to orders food from different Restaurants around u
 
 ![foodj](https://user-images.githubusercontent.com/68410510/96357920-4db07380-111f-11eb-9ee0-c9c566b2ca31.png)
 
-![foodj](https://user-images.githubusercontent.com/68410510/96357946-9bc57700-111f-11eb-8905-9fdab74a81a4.png)
-
